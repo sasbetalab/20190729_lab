@@ -1,3 +1,0 @@
-this is a text file
-it is a test of the app
-and editing too
