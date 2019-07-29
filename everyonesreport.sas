@@ -1,5 +1,5 @@
 /*User 1 comment*/
-/* Hello I am user 2 */
+/*User 2 comment*/
 /*User 3 comment*/
 /*User 4 comment*/
 /*User 5 comment*/
@@ -13,12 +13,10 @@
 /*User 13 comment*/
 /*User 14 comment*/
 /*User 15 comment*/
-/*User 16 was here*/
+/*User 16 comment*/
 /*User 17 comment*/
-* I am user 17 and this is a comment. ;
 /*User 18 comment*/
 /*User 19 comment*/
-/* What's good */
 /*User 20 comment*/
 
 proc print data=sashelp.class;
